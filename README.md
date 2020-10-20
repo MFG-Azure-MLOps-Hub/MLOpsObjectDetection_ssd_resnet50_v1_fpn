@@ -13,6 +13,7 @@ This is a MLOps template based on **TensorFlow 2 Object Detection API** and with
 - [Azure ML Python SDK Quickstart](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-create-workspace-with-python)
 - [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/?view=vsts)
 - [TensorFlow models](https://github.com/tensorflow/models)
+- [TensorFlow Object Detection Configs](https://github.com/tensorflow/models/tree/master/research/object_detection/configs/tf2)
 - [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 - [Training Custom Object Detector](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#download-pre-trained-model)
 
