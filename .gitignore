@@ -109,3 +109,5 @@ condaenv.*
 .mypy_cache/
 
 .DS_Store
+
+configure.ipynb
