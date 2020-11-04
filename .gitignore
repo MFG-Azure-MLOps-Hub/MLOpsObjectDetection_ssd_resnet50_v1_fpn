@@ -111,3 +111,4 @@ condaenv.*
 .DS_Store
 
 configure.ipynb
+config.json
